@@ -4,6 +4,10 @@
     <title>Portfolio on Brian Cevallos Fujiy</title>
     <link>https://bcfujiy.github.io/portfolio/</link>
     <description>Recent content in Portfolio on Brian Cevallos Fujiy</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://bcfujiy.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://bcfujiy.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
